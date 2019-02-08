@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Old Guitarist (1903-1904)
-date: 2019-01-30T15:04:00.000Z
+date: 2019-01-31T15:04:00.000Z
 description: In this post we take a look into Picasso's early example of a Cubist work.
 tags:
   - art history
